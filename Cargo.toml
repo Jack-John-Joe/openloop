@@ -1,0 +1,20 @@
+[package]
+name = "openloop"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "server"
+path = "server/main.rs"
+
+[[bin]]
+name = "core"
+path = "core/main.rs"
+
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+egui = "0.27.2"
+reqwest = "0.12.4"
