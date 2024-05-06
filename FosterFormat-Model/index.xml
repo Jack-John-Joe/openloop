@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+    <foster>
+        <name>example</name>
+        <lo>May 5th</lo>
+        <lov>0.1.0</lov>
+    </foster>
+    <crucial>
+        <im>/log/im.log</im>
+        <log>/log/main.log</log>
+        <pd>/data/index.xml</pd>
+    </crucial>
+</index>
